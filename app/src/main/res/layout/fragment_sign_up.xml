@@ -68,10 +68,10 @@
             android:layout_width="220dp"
             android:layout_height="50dp"
             android:background="@drawable/btm_custom"
+            android:backgroundTint="@color/orang"
             android:hint="@string/add_cod"
             android:textColorHint="@color/white"
             android:textSize="16sp"
-            app:backgroundTint="@color/active"
             app:cornerRadius="30dp" />
 
 
@@ -80,10 +80,10 @@
             android:layout_width="220dp"
             android:layout_height="50dp"
             android:background="@drawable/btm_custom"
+            android:backgroundTint="@color/orang"
             android:hint="@string/confirm"
             android:textColorHint="@color/white"
             android:textSize="16sp"
-            app:backgroundTint="@color/active"
             app:cornerRadius="30dp" />
 
     </FrameLayout>
@@ -93,6 +93,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:text="@string/tv_send_ag"
-        android:textColor="@color/active" />
+        android:textColor="#FFC107" />
 
 </LinearLayout>
