@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">nota pp</string>
+    <string name="text_next">text_next</string>
+    <string name="signup">Регистрация по номеру</string>
+    <string name="add_number">Ваш номер телефона</string>
+    <string name="you_cod">Ваш код</string>
+    <string name="add_cod">Получить код</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="tv_send_ag">Отправить снова</string>
+    <string name="go_work">go_work</string>
+</resources>
